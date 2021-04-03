@@ -17,7 +17,7 @@
 
 <br>
 
-<a href="https://github.com/emjose/model-minority-myth/">![Model Minority Myth](Assets/preview-026-model-minority-myth.png)</a> 
+<a href="https://emjose.github.io/model-minority-myth/">![Model Minority Myth](Assets/preview-026-model-minority-myth.png)</a> 
 
 #
 
@@ -38,12 +38,14 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-### Day 25: ***Date***
-- text
+### Day 26: April 6, 2021
+- During the Covid-19 pandemic, <a href="https://www.pewresearch.org/social-trends/2020/07/01/many-black-and-asian-americans-say-they-have-experienced-discrimination-amid-the-covid-19-outbreak/">there has been a marked increase in anti-Asian sentiment and racism in the United States.</a> 
   
-- text
+- On March 16th, 2021, a mass shooting occured in three Atlanta spas and massage parlors. Eight people were killed, six of whom were Asian women.
   
-- text
+- As an Asian and a Filipino-American, I've been at a loss for words with current events. As a way of beginning to articulate my thoughts, I worked on this mini project with a scratch effect revealing the myth of the **<a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">"model minority."</a>**
+  
+- The **<a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">"model minority" myth</a>** is the stereotypical perception of Asians being a "polite, law-abiding group who have achieved a higher level of success than the general population through some combination of innate talent and pull-yourselves-up-by-your-bootstraps immigrant striving." Source: <a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">Learning for Justice.</a>
 
 #
 
@@ -66,18 +68,25 @@ open index.html
 
 <a href=#issues>![Issues](Assets/inter-issues.png)</a>
 
-#### offset text:
-[image/code]
-#### offset text:
-[image/code]
+#### The JavaScript function for the mousemove event creates a span element. For the span element to exceed the padding of the browser frame, offset values are required.
+```
+    const bubbles = document.createElement('span');
+    bubbles.style.left = -75 + e.offsetX + 'px';
+    bubbles.style.top = -75 + e.offsetY + 'px';
+    body.appendChild(bubbles);
+```
+
+#### Due to the offset in pixel values, the span can appeared warped or rippled, which is most apparent at the bottom of the browser frame.
+<!-- <a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/issue-example.png)</a> -->
+<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth-2.gif)</a>
 
 #
 
 <p id="live-site"><p>
 
-<a href="https://emjose.github.io/***repo-name***/">![Live Site](Assets/inter-live-site.png)</a>
+<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/inter-live-site.png)</a>
 
-<a href="https://emjose.github.io/***repo-name***/">![Live Site](Assets/026-***gif-name***.gif)</a>
+<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth-1.gif)</a>
 
 #
 
@@ -85,13 +94,17 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-- #### [***alt-text***](***URL***)  
+- #### [Stop AAPI Hate](https://stopaapihate.org/)
+  
+- #### [Anti-Asian Violence Resources](https://anti-asianviolenceresources.carrd.co/)
 
-- #### [***alt-text***](***URL***)  
+- #### [What is the Model Minority Myth?](https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth)
 
-- #### [***alt-text***](***URL***)  
+- #### [Stop Asian Hate: GoFundMe Organizations](https://www.gofundme.com/c/act/stop-aapi-hate) 
 
-- #### [***alt-text***](***URL***)  
+- #### ["Not Your Model Minority" poem by Rosa Kim](https://bclawimpact.org/2021/02/15/not-your-model-minority/)
+
+- #### [Thank you to Kimson Doan](https://unsplash.com/photos/HD8KlyWRYYM) for her photo on [Unsplash](https://unsplash.com/)
 
 - #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
 
