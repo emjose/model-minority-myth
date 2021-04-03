@@ -5,7 +5,7 @@
 body {
   width: 100%;
   height: 100vh;
-  background: #dce0e5 url(kimson-doan.png);
+  background: #dce0e5 url(Assets/kimson-doan.png);
   background-repeat: no-repeat;
   background-position: 50% 25%;
   background-size: cover;
@@ -15,7 +15,7 @@ span {
   position: absolute;
   width: 150px;
   height: 150px;
-  background: url(myth-black.png);
+  background: url(Assets/myth-black.png);
   background-size: cover;
   background-attachment: fixed;
   pointer-events: none;
