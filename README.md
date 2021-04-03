@@ -68,6 +68,7 @@ open index.html
 
 <a href=#issues>![Issues](Assets/inter-issues.png)</a>
 
+#### In the index.html file:
 ```
     const bubbles = document.createElement('span');
     bubbles.style.left = -75 + e.offsetX + 'px';
@@ -90,7 +91,7 @@ open index.html
 
 <a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/inter-live-site.png)</a>
 
-<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth-1.gif)</a>
+<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth.gif)</a>
 
 #
 
@@ -109,6 +110,8 @@ open index.html
 - #### ["Not Your Model Minority" poem by Rosa Kim](https://bclawimpact.org/2021/02/15/not-your-model-minority/)
 
 - #### [Thank you to Kimson Doan](https://unsplash.com/photos/HD8KlyWRYYM) for her photo on [Unsplash](https://unsplash.com/)
+
+- #### [Scratch Effect Tutorial](https://youtu.be/qzcMiNKPSIk) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 - #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
 
