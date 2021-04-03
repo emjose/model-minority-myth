@@ -30,7 +30,7 @@
 - [Issues](#issues)
 - [Live Site](#live-site)
 - [Resources](#resources)
-- [Let's Connect!](#lets-connect) 
+- [Say Hello](#say-hello) 
 
 #
 
@@ -68,20 +68,21 @@ open index.html
 
 <a href=#issues>![Issues](Assets/inter-issues.png)</a>
 
-- The JavaScript function for the mousemove event creates a span element. 
-  
-- For the span element to exceed the padding of the browser frame, offset values are required.
 ```
     const bubbles = document.createElement('span');
     bubbles.style.left = -75 + e.offsetX + 'px';
     bubbles.style.top = -75 + e.offsetY + 'px';
     body.appendChild(bubbles);
 ```
+- The JavaScript function for the mousemove event creates a span element. 
+  
+- For the span element to exceed the padding of the browser frame, offset values are required.
+
+<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth-2.gif)</a>
+
 - Due to the offset in pixel values, the span can appeared warped or rippled. 
   
 - This warping is most apparent at the bottom of the browser frame.
-<!-- <a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/issue-example.png)</a> -->
-<a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth-2.gif)</a>
 
 #
 
@@ -113,12 +114,12 @@ open index.html
 
 #
 
-<p id="lets-connect"><p>
+<p id="say-hello"><p>
 
-<a href=#lets-connect>![Say Hello](Assets/inter-say-hello.png)</a>
+<a href=#say-hello>![Say Hello](Assets/inter-say-hello.png)</a>
 
 <p><a href="https://twitter.com/Emmanuel_Labor"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"> <a href="https://www.linkedin.com/in/emmanuelpjose/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"> <a href="https://emmanueljose.medium.com/"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=90 alt="Medium badge"> <a href="https://www.instagram.com/emmanuel_jose/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=90 alt="Instagram badge"> <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"> <a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=90 alt="Youtube badge"> <a href="https://github.com/emjose"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Youtube badge"></p>
 
 #
 
-<a href=#header>![Back to Top](Assets/inter-congrats.png)</a> 
+<a href=#header>![Back to Top](Assets/inter-lets-go.png)</a> 
