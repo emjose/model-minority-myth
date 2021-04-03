@@ -27,6 +27,7 @@
 
 - [100 Days of Code](#100days)
 - [Installation](#installation) 
+- [Issues](#issues)
 - [Live Site](#live-site)
 - [Resources](#resources)
 - [Let's Connect!](#lets-connect) 
@@ -58,6 +59,17 @@ git clone git@github.com:emjose/model-minority-myth.git && cd model-minority-myt
 ```
 open index.html
 ```
+
+#
+
+<p id="issues"><p>
+
+<a href=#issues>![Issues](Assets/inter-issues.png)</a>
+
+#### offset text:
+[image/code]
+#### offset text:
+[image/code]
 
 #
 
