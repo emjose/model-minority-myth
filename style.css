@@ -1,43 +1,23 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-  background: #000;
 }
-
-section {
-  position: absolute;
-  top: 10%;
-  left: 0;
+body {
   width: 100%;
-  /* height: 100vh; */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #000;
-  z-index: -10;
-}
-
-section .content {
-  max-width: 80%;
-  color: #fff;
-}
-
-section .content h1 {
-  font-size: 3em;
-}
-
-section .content p {
-  font-size: 1.2em;
-}
-
-canvas {
-  position: absolute;
-  width: 100%;
-  background: url("https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80");
+  height: 100vh;
+  background: #dce0e5 url(kimson-doan.png);
   background-repeat: no-repeat;
   background-position: 50% 25%;
   background-size: cover;
-  z-index: 2;
-  mix-blend-mode: screen;
+}
+span {
+  display: block;
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background: url(myth-black.png);
+  background-size: cover;
+  background-attachment: fixed;
+  pointer-events: none;
+  border-radius: 50%;
 }
