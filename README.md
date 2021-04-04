@@ -45,7 +45,7 @@
   
 - As an Asian and a Filipino-American, I've been at a loss for words with current events. As a way of beginning to articulate my thoughts, I worked on this mini project with a scratch effect revealing the myth of the **<a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">"model minority."</a>**
   
-- The **<a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">"model minority" myth</a>** is the "one size fits all" and stereotypical perception of Asians being a "polite, law-abiding group who have achieved a higher level of success than the general population through some combination of innate talent and pull-yourselves-up-by-your-bootstraps immigrant striving." Source: <a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">Learning for Justice.</a>
+- The **<a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">"model minority" myth</a>** is the "one-size-fits-all" and stereotypical perception of Asians being a "polite, law-abiding group who have achieved a higher level of success than the general population through some combination of innate talent and pull-yourselves-up-by-your-bootstraps immigrant striving." Source: <a href="https://www.learningforjustice.org/magazine/what-is-the-model-minority-myth">Learning for Justice.</a>
 
 #
 
