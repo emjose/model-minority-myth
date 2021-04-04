@@ -61,6 +61,7 @@ git clone git@github.com:emjose/model-minority-myth.git && cd model-minority-myt
 ```
 open index.html
 ```
+#### On your device, move the cursor around to see the reveal effect.
 
 #
 
