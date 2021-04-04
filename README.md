@@ -114,6 +114,8 @@ open index.html
 
 - #### [Scratch Effect Tutorial](https://youtu.be/qzcMiNKPSIk) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
+- #### [The text was created with Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
 - #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd) 
 
 #
