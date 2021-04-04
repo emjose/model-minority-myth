@@ -77,7 +77,7 @@ open index.html
 ```
 - The JavaScript function for the mousemove event creates a span element. 
   
-- For the span element to exceed the padding of the browser frame, offset values are required.
+- For the span to exceed the browser's frame, offset values are added to the mouse coordinates.
 
 <a href="https://emjose.github.io/model-minority-myth/">![Live Site](Assets/026-myth-2.gif)</a>
 
