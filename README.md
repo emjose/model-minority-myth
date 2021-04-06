@@ -38,7 +38,7 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-### Day 26: April 6, 2021
+### Day 26: April 5, 2021
 - During the Covid-19 pandemic, <a href="https://www.pewresearch.org/social-trends/2020/07/01/many-black-and-asian-americans-say-they-have-experienced-discrimination-amid-the-covid-19-outbreak/">there has been a marked increase in anti-Asian sentiment and racism in the United States.</a> 
   
 - On March 16th, 2021, a mass shooting occured in three Atlanta spas and massage parlors. Eight people were killed, six of whom were Asian women.
