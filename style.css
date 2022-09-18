@@ -1,23 +1,72 @@
+:root {
+	--white: #fff;
+	--black: #000;
+	--github-fill: var(--black);
+	--github-color: #fe0db2;
+	--body-color: #dce0e5;
+}
+
 * {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 body {
-  width: 100%;
-  height: 100vh;
-  background: #dce0e5 url(Assets/kimson-doan.png);
-  background-repeat: no-repeat;
-  background-position: 50% 25%;
-  background-size: cover;
+	width: 100%;
+	height: 100vh;
+	background: var(--body-color) url(Assets/kimson-doan.png);
+	background-repeat: no-repeat;
+	background-position: 50% 25%;
+	background-size: cover;
 }
 span {
-  display: block;
-  position: absolute;
-  width: 150px;
-  height: 150px;
-  background: url(Assets/myth-black.png);
-  background-size: cover;
-  background-attachment: fixed;
-  pointer-events: none;
-  border-radius: 50%;
+	display: block;
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	background: url(Assets/myth-black.png);
+	background-size: cover;
+	background-attachment: fixed;
+	pointer-events: none;
+	border-radius: 50%;
+}
+
+.github-corner:focus svg path {
+	fill: var(--github-color);
+}
+
+.github-corner:focus .octo-arm,
+.github-corner:focus .octo-body {
+	fill: var(--github-fill);
+}
+
+.github-corner:hover .octo-arm,
+.github-corner:focus .octo-arm {
+	animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+	0%,
+	100% {
+		transform: rotate(0);
+	}
+
+	20%,
+	60% {
+		transform: rotate(-25deg);
+	}
+
+	40%,
+	80% {
+		transform: rotate(10deg);
+	}
+}
+
+@media (max-width: 500px) {
+	.github-corner:hover .octo-arm {
+		animation: none;
+	}
+
+	.github-corner .octo-arm {
+		animation: octocat-wave 560ms ease-in-out;
+	}
 }
